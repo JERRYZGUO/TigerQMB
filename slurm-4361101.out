@@ -1,0 +1,50 @@
+/usr/licensed/anaconda3/2019.10/lib/python3.7/site-packages/numpy/core/_asarray.py:85: ComplexWarning: Casting complex values to real discards the imaginary part
+  return array(a, dtype, copy=False, order=order)
+No handles with labels found to put in legend.
+/usr/licensed/anaconda3/2019.10/lib/python3.7/site-packages/numpy/core/_asarray.py:85: ComplexWarning: Casting complex values to real discards the imaginary part
+  return array(a, dtype, copy=False, order=order)
+Longitudinal field B0 =  0.0
+spin-spin coulping J0, J =  1.0 1.0
+Transverse field CTF0, CFT, Amp =  0.5 0.5 1.0
+Transverse field frequency =  2.0
+Pulse length, control field cycle =  15.707963267948966 3.141592653589793
+N_in, N_hid, N_state, N_parameter, N_Steps, Nsub =  5 5 32 35 1000 10
+Initialization: 0.0 %
+Initialization: 10.0 %
+Initialization: 20.0 %
+Initialization: 30.0 %
+Initialization: 40.0 %
+Initialization: 50.0 %
+Initialization: 60.0 %
+Initialization: 70.0 %
+Initialization: 80.0 %
+Initialization: 90.0 %
+local energy = [1.82910629+5.94479432e-17j] [-4.44424133+1.76652543e-16j]
+--- Initialization 8.423068523406982 seconds ---
+FNN: 0.0 %
+FNN: 10.0 %
+FNN: 20.0 %
+FNN: 30.0 %
+FNN: 40.0 %
+FNN: 50.0 %
+FNN: 60.0 %
+FNN: 70.0 %
+FNN: 80.0 %
+FNN: 90.0 %
+--- FNN 83.81074452400208 seconds ---
+Exact: 0.0 %
+Exact: 10.0 %
+Exact: 20.0 %
+Exact: 30.0 %
+Exact: 40.0 %
+Exact: 50.0 %
+Exact: 60.0 %
+Exact: 70.0 %
+Exact: 80.0 %
+Exact: 90.0 %
+--- Exact 4.661734580993652 seconds ---
+Difference measure: 0.03291137062411503
+--- Analysis 4.154410123825073 seconds ---
+
+
+--- Total 101.04996490478516 seconds ---
